@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+deep-translator
+gtts
+playsound==1.2.2
+Pillow
